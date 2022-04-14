@@ -1,11 +1,11 @@
 <idea-plugin>
     <id>org.dnysus.digital-ocean-manager</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>DigitalOcean Manager</name>
+    <vendor email="info@dnysus.ee" url="https://dnysus.ee">Dnysus OU</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    Plugin helps you list/create/delete DigitalOcean Droplet thru your IDE.<br>
+    <em>resize droplet functionality will be added</em>
     ]]></description>
 
     <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
